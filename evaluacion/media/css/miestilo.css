@@ -1,0 +1,22 @@
+.left-margin{
+    margin: 0 .5em 0 0;
+}
+
+.right-button-margin{
+    margin: 0 0 1em 0;
+    overflow: hidden;
+}
+
+
+.modal-body {
+    padding: 10px 10px 0px 10px;
+    text-align: center;
+}
+
+.modal-footer{
+    text-align: center;
+}
+
+.btn btn-primary{
+    margin: 16px;
+}
